@@ -1,0 +1,758 @@
+FASTTECHNEPAL
+REUSABLE NEPALI VIDEO AD — MASTER PROMPT + COMPLETE WORKFLOW
+Reference: the original 30-second Fasttechnepal motion-graphics ad
+File format: UTF-8 plain text
+
+======================================================================
+KASARI USE GARNE — PAHILA YO PADHNUS
+======================================================================
+
+1. Yo TXT file download garera rakhnuहोस्.
+2. Arko patak AI assistant ma yo file upload garnuहोस्. Purano "Fasttechnepal-complete-ad-kit.zip" pani cha bhane sangai upload garnuहोस्. ZIP nabhaye pani yo prompt afai ma complete cha.
+3. Sangai yo message pathaunuहोस्:
+
+   "Yo file ko MASTER PROMPT follow garera Fasttechnepal ko lagi
+   30-second Nepali motion-graphics ad banau. Same visual style rakhnu.
+   Actual downloadable MP4, music, silent version ra video anusar ko
+   Nepali voice-over prompt/timing deu. Voice-over ma bahira bata
+   record garchhu. Script/storyboard matra diyera narokinu."
+
+4. Arko brand, offer wa audience ko lagi banauda BRAND INPUTS matra badalnuहोस्. Hotel-only, restaurant-only, school, clinic jasto topic badliye script ra visuals pani tyo business anusar badalnuparcha.
+5. Master production prompt English ma cha, technical tools lai clear instructions dina. Video ko text ra voice-over script chai Nepali Devanagari mai hunuparcha.
+
+IMPORTANT
+- Prompt le matra harek AI chat lai MP4 banauna sakne banaudaina. File creation, image assets, animation/rendering ra video export support bhayeko environment chahincha. Text-only AI le script/prompt/source dina sakcha, tara actual MP4 export nagareko ho bhane "video ready" bhanna mildaina.
+- GPT-6, Astra, Fable 5.2 jasto naam bhanda actual available tools ra verified capability ma bhar parnuहोस्. Model ko naam ya availability anuman nagarnuहोस्.
+- SAME STYLE ra EXACT SAME VIDEO farak hun. Exact visual reproduction ko lagi purano renderer, fonts, photos ra settings preserve garnuहोस्. Naya AI image generation le identical image dine guarantee hudaina.
+- Yo Fasttechnepal ko WEBSITE DEVELOPMENT SERVICE ko ad ho. Hotel ko room bechne wa restaurant ko khana bechne ad hoina.
+
+
+======================================================================
+START MASTER PROMPT — COPY/UPLOAD THIS ENTIRE SECTION
+======================================================================
+
+YOUR ROLE AND DELIVERABLE
+
+Act as a senior Nepali advertising copywriter, motion designer, video producer and technical renderer. Produce a finished, downloadable vertical advertisement, not just a concept, script, storyboard, website, slideshow presentation or code snippet.
+
+The business sells website design/development to hotels, restaurants and other businesses in Nepal. The advertisement must sell the WEBSITE SERVICE, using hospitality website mockups to demonstrate the work.
+
+The requested deliverable is a standalone video package. Do not build or modify a website/app project to satisfy it. An optional lightweight video-preview page is useful, but it does not replace the MP4.
+
+Use the inputs below. Make sensible decisions without turning this into a long questionnaire. Ask only if a genuinely missing fact blocks correct delivery, or a paid purchase/account action requires approval. Do not invent missing business claims.
+
+
+A. BRAND INPUTS — EDIT THIS BLOCK FOR FUTURE CAMPAIGNS
+
+CAMPAIGN_MODE: RECREATE_STYLE
+CAMPAIGN_TOPIC: Websites for Nepal's hotels, restaurants and businesses
+BRAND_NAME: Fasttechnepal
+BRAND_PRONUNCIATION: फास्ट–टेक नेपाल
+BUSINESS_SERVICE: Website design and development
+TARGET_AUDIENCE: Hotel owners, restaurant owners and business operators in Nepal
+PRIMARY_LOCATION: Butwal, Nepal / बुटवल, नेपाल
+INSTAGRAM_HANDLE: @fastnepal
+FACEBOOK_HANDLE: @fastnepal
+WHATSAPP_DISPLAY_NUMBER: +977 971-6244942
+WHATSAPP_DIGITS_ONLY: 9779716244942
+WHATSAPP_CLICK_TO_CHAT: https://wa.me/9779716244942
+WHATSAPP_HANDLE_AS_SUPPLIED: @Fasttechnepal1
+PRIMARY_ACTION: Start a WhatsApp conversation about a business website
+PRICE: Not provided — do not invent or display a price
+OFFER_OR_DISCOUNT: Not provided — do not invent an offer
+FREE_CONSULTATION: Not confirmed — do not advertise it as free
+CLIENT_TESTIMONIALS: Not supplied — do not invent any
+REAL_PORTFOLIO: Not supplied — use explicitly labelled concept mockups
+LOGO: Use a tasteful Fasttechnepal text wordmark unless a real logo is supplied
+VIDEO_LANGUAGE: Nepali, written in Devanagari
+VOICE_LANGUAGE: Nepali from Nepal
+VOICE_MODE: EXTERNAL_LATER — deliver no narration in the default MP4
+VIDEO_DURATION_SECONDS: 30
+VIDEO_WIDTH: 1080
+VIDEO_HEIGHT: 1920
+ASPECT_RATIO: 9:16
+FRAME_RATE: 30 fps, constant
+MUSIC: Original or properly licensed instrumental, no vocals
+REFERENCE_STYLE: Cobalt blue, white, ink navy, strong Nepali typography,
+                 realistic hospitality imagery, responsive website mockups
+OUTPUTS: Music MP4 + silent MP4 + separate music WAV + Nepali VO kit + source ZIP
+AD_PUBLISHING: Not authorized; do not publish, connect accounts or spend ad budget
+
+If inputs conflict, preserve explicitly supplied contact information and flag the conflict. Never silently change a phone number or substitute another brand's account.
+
+For a different business, replace these inputs first. Do not carry over Fasttechnepal's name, phone number, handles or claims into another brand's finished film.
+
+
+B. CAPABILITY CHECK AND PRODUCTION PATH
+
+Before making ambitious claims, inspect what the environment actually supports.
+
+1. Can you create/download real images or use supplied assets?
+2. Can you shape and render Nepali text correctly?
+3. Can you animate layers and export actual MP4 video?
+4. Can you create or legally source instrumental audio?
+5. Can you attach files for the user to download?
+
+Preferred route for this precise style:
+AI-generated/supplied photography → shaped typography → code-based motion
+composition → FFmpeg video/audio export → actual-file validation → download kit.
+
+The reference ad used:
+- AI-generated hotel and restaurant concept photos.
+- Noto Sans Devanagari and Manrope fonts.
+- Python, Pillow and NumPy for layered graphics and animation.
+- HarfBuzz through uharfbuzz, with FreeType, for correct Nepali glyph shaping.
+- FFmpeg, available through imageio-ffmpeg, for H.264/AAC output.
+- An original algorithmically synthesized instrumental music bed.
+
+If the previous ZIP is supplied, inspect and reuse render_ad.py, its fonts, images and settings rather than recreating everything from scratch. Its source supports --stills for proofs and --render for the full video/music exports. Execute production steps yourself in your available environment; do not require the user to use a terminal just to receive the result.
+
+An equivalent animation stack is acceptable if it produces correct Nepali text and real downloadable files. Name the tools you actually used. Do not claim to have run a particular proprietary model unless you really did.
+
+A generative video model is optional, not required. Use it for clean background footage if useful; do not rely on it to draw exact Nepali lettering, contact details, brand wordmarks or detailed website UI. Composite those deterministically afterward.
+
+If the environment cannot export video, say so clearly. Provide the production-ready storyboard, asset prompts and editable source it can genuinely create. Never rename HTML/GIF/image files to .mp4 or report an unrendered video as finished.
+
+
+C. RESEARCH — SHORT, RELEVANT AND CURRENT
+
+Before finalizing the concept:
+
+- Check current official Facebook/Instagram Reels guidance for vertical creative, supported media and placement overlays.
+- Re-check safe zones for the actual placement. Do not assume a historical percentage is universally current.
+- If audience context is useful, use a credible Nepal digital-media source and distinguish potential ad reach from active users or paying customers.
+- Check current Nepali language/voice support if recommending a TTS tool.
+- Record source URLs and the dates of the data. Separate reported facts from your creative recommendations.
+- If browsing is unavailable, state that current research was not verified. Continue using sensible production defaults without inventing research findings.
+- Do not paste market statistics into the ad unless they directly help the message and are properly supported. This ad does not need statistics.
+
+Useful starting points; check current versions when executing:
+https://www.facebook.com/business/ads/facebook-instagram-reels-ads
+https://www.facebook.com/business/ads-guide/update/video/instagram-reels
+https://datareportal.com/
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts
+
+Do not treat the "Digital 2026: Nepal" report's late-2025 observations as live figures in a later year. Do not carry old audience numbers forward without checking.
+
+
+D. CREATIVE STRATEGY
+
+Core idea:
+“व्यवसाय राम्रो छ। अनलाइनमा देखिन्छ त?”
+
+Story logic:
+Relevant question → website solution → useful business information →
+mobile/contact convenience → clear invitation to WhatsApp.
+
+Make viewers understand, even with sound off:
+1. This is relevant to their business.
+2. Fasttechnepal builds websites.
+3. A website can organize their menu, room information, photos and contact details.
+4. They can contact Fasttechnepal to discuss their own website.
+
+Do not promise guaranteed bookings, sales growth, search rankings, payments, automatic reservations, delivery, free hosting or other unconfirmed functionality.
+
+A search bar is an illustrative graphic, not evidence of a live Google search. A message bubble is an example interaction, not a real incoming lead. Keep that distinction honest.
+
+
+E. VISUAL SYSTEM
+
+Use this restrained five-color UI/typography palette:
+Primary cobalt: #2454F6
+Ink navy:       #10214C
+White:          #FFFFFF
+Pale blue:      #E7EEFF
+Muted blue-gray:#63708B
+
+Natural photographic colors can remain natural. Do not add unrelated accent colors to the graphic design.
+
+Typography:
+- Nepali: Noto Sans Devanagari, mainly medium/bold/extra-bold.
+- Latin brand name, handles and numbers: Manrope.
+- At most two font families.
+- Preserve all matras, conjuncts, punctuation and Devanagari shaping.
+- Use real font files with appropriate licenses; include licenses with redistributed source.
+- Never construct Nepali text one disconnected glyph at a time.
+- Do not animate substrings that split a grapheme/matra. Animate complete words or text layers instead.
+
+Style:
+Clean, confident, premium studio motion design. Large readable headlines.
+Realistic website/device mockups. Subtle depth and grounded shadows.
+No random glowing orbs, neon blobs, excessive particles or decorative filler.
+No emoji icons, copied famous-brand logo, fake awards or stock business handshake.
+
+Signature visual:
+The business becomes a clear, responsive website inside a desktop/mobile screen.
+Make this the main visual idea; keep surrounding graphics quiet.
+
+Layout and safe area:
+- Design at 1080 × 1920, not a landscape canvas cropped afterward.
+- For continuity with the reference, start with conservative top 14%, bottom 35% and side 6% exclusion zones, then verify current placement guidance.
+- At this resolution, that is approximately 269 px top, 672 px bottom and 65 px at each side.
+- A convenient working region for critical copy is approximately x=96–984 and y=300–1240. Check actual glyph bounds and any text shadow, not just the text anchor.
+- Keep brand, primary message, CTA, phone and handles inside the verified safe area.
+- Photography and nonessential mockup detail may extend outside it.
+- Judge readability at phone viewing size, not only on a large desktop monitor.
+- Do not shrink contact text until it is unreadable just to fit the layout. Simplify the copy or reposition supporting lines.
+- Use strong contrast and let text settle long enough to read.
+
+
+F. LOCKED 30-SECOND REFERENCE STORYBOARD
+
+For RECREATE_STYLE with the unchanged Fasttechnepal inputs, use these scenes.
+For a genuinely different business/topic, adapt the copy and imagery first, then
+recalculate the timing and matching voice-over guide.
+
+SCENE 1 — 00:00.000–00:05.000
+Purpose: A relatable question for business owners.
+Background: Realistic Nepal boutique-hotel photograph with a dark ink overlay.
+Brand: Fasttechnepal.
+Audience label: “होटल / रेस्टुरेन्ट / व्यवसाय”
+Headline:
+“व्यवसाय राम्रो छ।”
+“अनलाइनमा”
+“देखिन्छ त?”
+Supporting visual: Generic illustrative search bar reading
+“तपाईंको व्यवसायको वेबसाइट”.
+Motion: Immediate readable hook, staggered word/line entrance, search bar
+slides in, a deliberate cursor movement/click. No fake live search results.
+VOICE WINDOW: 00:00.350–00:04.650
+VOICE:
+“तपाईंको व्यवसाय राम्रो छ। तर, अनलाइनमा देखिन्छ त?”
+
+SCENE 2 — 00:05.000–00:10.000
+Purpose: Introduce the service, not just a brand name.
+Background: White.
+Headline:
+“अब बनाऔँ,”
+“तपाईंको वेबसाइट।”
+Supporting copy: “तपाईंको आफ्नै अनलाइन पहिचान।”
+Visual: A convincing hotel website in a browser frame plus a mobile version.
+Use a .example domain and a small “नमुना डिजाइन” label for fictional work.
+Motion: Browser frame rises and scales gently into place. Mobile version
+arrives in a second beat to communicate responsive design.
+VOICE WINDOW: 00:05.350–00:09.650
+VOICE:
+“फास्टटेक नेपालसँग बनाउनुहोस् आफ्नो व्यवसायको वेबसाइट।”
+
+SCENE 3 — 00:10.000–00:16.000
+Purpose: Make the website's usefulness concrete.
+Background: Cobalt blue.
+Headline:
+“मेनु होस् वा कोठा।”
+“सबै जानकारी,”
+“एकै ठाउँमा।”
+Four labels: “मेनु” / “कोठा” / “फोटो” / “सम्पर्क”
+Visual: A realistic restaurant website with an appetizing momo photograph.
+Motion: Labels appear in sequence; restaurant browser frame moves into view.
+Do not imply a full online-ordering system unless the service is confirmed.
+VOICE WINDOW: 00:10.350–00:15.650
+VOICE:
+“मेनु, कोठा, फोटो र सम्पर्क। ग्राहकलाई चाहिने जानकारी, एकै ठाउँमा।”
+
+SCENE 4 — 00:16.000–00:23.000
+Purpose: Show mobile usability and an easy path to contact.
+Background: Pale blue.
+Headline:
+“हेर्न सजिलो।”
+“सम्पर्क गर्न”
+“झन् सजिलो।”
+Supporting labels:
+“मोबाइलमै सहज”
+“एक क्लिकमा सम्पर्क”
+Visual: Mobile website, a prominent contact action and a clearly illustrative
+message reading “वेबसाइटबारे बुझ्न चाहन्छु।”
+Motion: Phone enters, contact action becomes the focal point, cursor clicks,
+then the sample message appears. Do not show invented sales notifications.
+VOICE WINDOW: 00:16.350–00:22.200
+VOICE:
+“मोबाइलमै सजिलै हेर्न मिल्ने। अनि तपाईंलाई सिधै सम्पर्क गर्न मिल्ने।”
+
+SCENE 5 — 00:23.000–00:30.000
+Purpose: Give viewers time and a clear way to act.
+Background: Cobalt blue; optional subdued hospitality image below the safe zone.
+Brand: Fasttechnepal
+Location: “बुटवल, नेपाल”
+Headline:
+“वेबसाइट बनाउने”
+“सोचमा हुनुहुन्छ?”
+CTA: “आजै WhatsApp मा कुरा गरौँ”
+Phone: +977 971-6244942
+Supplied WhatsApp handle: @Fasttechnepal1
+Facebook / Instagram: @fastnepal
+Motion: Simple staggered reveal, then keep the contact card stable for the
+remaining time. Phone number is the strongest contact detail. Do not hide it
+behind transitions or put it in the Reels UI exclusion area.
+VOICE WINDOW: 00:23.350–00:29.200
+VOICE:
+“वेबसाइट बनाउन, आजै ह्वाट्सएपमा कुरा गरौँ। फास्टटेक नेपाल, बुटवल।”
+
+The handle @Fasttechnepal1 is a user-supplied label. Do not invent a WhatsApp
+handle URL. Use the digits-only phone number for the wa.me link.
+
+
+G. IMAGE GENERATION / ASSET PROMPTS
+
+Prefer actual client assets when supplied with permission. Otherwise generate
+these two concept photographs and disclose that they are not real portfolio
+projects. They must be image files, not empty placeholders.
+
+HOTEL IMAGE PROMPT — VISUAL ASSET ONLY
+
+“Photorealistic premium hospitality advertising photograph, landscape 3:2
+composition, a fictional contemporary boutique resort in the subtropical
+foothill region of western Nepal near Butwal. Understated two-story stone
+and warm timber architecture, shaded terraces, large windows, manicured
+garden, rectangular reflection pool, subtropical planting, distant forested
+Siwalik hills. Blue-hour evening, elegant warm interior lighting, architectural
+photography, straight verticals, tasteful high-end travel editorial style,
+credible scale and materials. Clear composition suitable for a website hero.
+No people, no lettering, no logos, no signage, no watermark, no UI, no border,
+no collage. Do not place giant snowy Himalayan peaks directly behind a
+Butwal-area hotel. This is a fictional concept, not a specific real property.”
+
+RESTAURANT IMAGE PROMPT — VISUAL ASSET ONLY
+
+“Photorealistic premium restaurant advertising photograph, landscape 3:2.
+A matte charcoal ceramic plate of authentic hand-folded steamed Nepali momo,
+subtle steam, a small bowl of tomato-sesame achar, restrained fresh coriander,
+a brass spoon and a dark walnut table. Inviting contemporary Nepal restaurant
+interior softly out of focus behind it. Warm side-window light, appetizing
+natural colors, precise editorial food styling, rich tactile detail. Camera
+at approximately a 35-degree angle, plate in sharp focus, suitable for a
+restaurant website hero. No people, text, brand, logo, watermark, UI, border
+or collage. Food should look plausible, not plastic or over-stylized.”
+
+If using a video-generation model for background footage, add:
+“Subtle slow camera movement only. Maintain stable architecture/food shapes.
+No text, UI, numbers, logos, speech, lip-sync or generated voice. Do not change
+the scene's identity between frames. Leave space for separately composited
+Nepali headlines.”
+
+Do not ask an image/video model to produce the finished Nepali phone number,
+CTA or detailed website interface. Add these with the compositor/editor.
+
+
+H. MOTION DESIGN AND TIMELINE ENGINEERING
+
+- This must feel like motion graphics, not five static slides with transitions.
+- Use purposeful kinetic typography, responsive-screen movement, staggered
+  labels, click interactions and limited depth.
+- Default text entrances: approximately 0.4–0.7 seconds, 30–80 px travel,
+  cubic ease-out or equivalent, modest opacity change.
+- Stagger related text layers by roughly 0.1–0.2 seconds, not several seconds.
+- Default scene transition: approximately 0.25–0.35 seconds. Keep headline
+  text readable; avoid flashes, violent zooms and excessive motion blur.
+- Give long passages adequate reading time. Do not spend most of a scene
+  animating text before it can be read.
+- Start the hook immediately. Do not use a separate long logo intro.
+- Keep the last contact card stable after its initial reveal.
+- Use real masks/layers and independent motion, not repeated whole-frame
+  pans as the only animation.
+- For code rendering, make the timeline deterministic and render by frame/time,
+  not by wall-clock browser timing that can drop frames.
+- At 30 seconds and 30 fps, verify a total of 900 frames.
+- Make at least five representative still proofs BEFORE the expensive render.
+- Inspect the first frame, fully settled scenes, transitions and end card.
+
+NEPALI FONT SHAPING CHECK
+Check Pillow's RAQM/HarfBuzz support before relying on it. If complex-text
+support is missing, use a proper shaping path such as HarfBuzz + FreeType,
+or a browser/text stack with verified Devanagari shaping. Do not accept
+broken matras as a font/style choice. Avoid repeated blind reinstall attempts.
+
+Test words include:
+“तपाईंको”, “व्यवसाय”, “सम्पर्क”, “वेबसाइट”, “ग्राहकलाई”, “बुटवल”.
+Check text for missing glyph boxes, clipping and Unicode replacement characters.
+
+
+I. ORIGINAL MUSIC AND SOUND EFFECTS
+
+Default: a tasteful 30-second instrumental designed to leave room for an
+external Nepali voice-over later.
+
+Music brief:
+“Original clean contemporary brand instrumental, approximately 120 BPM,
+warm soft keys/pads, light plucked motif, controlled rounded bass and gentle
+electronic percussion. Confident, welcoming and modern. No vocals, chanting,
+spoken words, dramatic trailer hits, recognizable existing melody or excessive
+high-frequency sparkle. Very light interface clicks/transition accents only.
+Support a Nepali website-service advertisement rather than overpowering it.
+Soft opening and natural short ending with a fade. Keep space for narration.”
+
+- Create original music, use music supplied with permission, or document the
+  license of a suitable track. Do not assume all AI music or social-library
+  music is licensed for paid ads; check the applicable terms.
+- For a code-produced score, actual synthesis is acceptable. Do not claim it
+  was made by a named music model if it was synthesized programmatically.
+- Deliver the separate bed as 48 kHz stereo WAV. 16-bit PCM is acceptable;
+  24-bit can be used if available.
+- No clipping, harsh peaks, broken fades or sudden truncation.
+- A music-only reference near -22 LUFS integrated is a useful starting point,
+  not a universal Meta requirement. Choose and measure a sensible level.
+- Reserve headroom. A true-peak ceiling around -1 to -2 dBTP is a practical
+  working target, not a claim about every platform's requirements.
+- For the later voice mix, begin with music approximately 15–20 dB lower than
+  the voice, then adjust by listening and meter readings. Duck it when needed.
+- Do not accidentally add two copies of the same music track in the final mix.
+
+If legal music sourcing/generation is unavailable, disclose it and provide
+the silent video. Do not use unlicensed popular music as a silent fallback.
+
+
+J. EXTERNAL NEPALI VOICE-OVER — DELIVER THIS SEPARATELY
+
+The default movie must contain MUSIC ONLY, with NO narration. The user will
+record voice-over elsewhere. Provide the following as a standalone TXT file,
+including every spoken line and its precise insertion window.
+
+COPY-READY VOICE ARTIST / INSTRUCTION-AWARE TTS PROMPT
+
+“तपाईं नेपाली विज्ञापनका अनुभवी voice-over कलाकार हुनुहुन्छ। बुटवलस्थित
+Fasttechnepal को website development सेवाका लागि तलको नेपाली script मात्र
+वाचन गर्नुहोस्। दर्शक नेपालका होटल, रेस्टुरेन्ट र अन्य व्यवसायका सञ्चालक हुन्।
+
+भाषा: नेपाली, नेपालमा बोलिने स्वाभाविक उच्चारण। हिन्दीमा नबदल्ने।
+स्वर: न्यानो, स्पष्ट, आत्मविश्वासी वयस्क नेपाली पुरुष। चर्को उद्घोषण होइन;
+व्यवसायीलाई अर्को व्यवसायीले सहज रूपमा सम्झाएजस्तो।
+पहिलो प्रश्नमा जिज्ञासा, बीचमा समाधानको स्पष्टता, अन्त्यमा मित्रवत् निमन्त्रणा।
+Brand उच्चारण: ‘फास्ट–टेक नेपाल’। वेबसाइट र ह्वाट्सएप स्वाभाविक नेपालीमा।
+Script नबदल्ने। नयाँ दाबी, मूल्य, छुट वा अतिरिक्त वाक्य नथप्ने।
+फोन नम्बर र social handle नपढ्ने; ती screen मा देखिन्छन्।
+Scene number, timestamp वा निर्देशन नपढ्ने।
+Music, sound effects, background noise, echo वा reverb नराख्ने। Dry voice मात्र।
+हरेक segment छुट्टाछुट्टै बनाउने। दिएको समयभित्र स्वाभाविक गतिमा अटाउने।
+Output: WAV, 48 kHz, mono, उपलब्ध भए 24-bit; 16-bit पनि स्वीकार्य।
+Voice peaks लगभग -3 dBFS वा तल राख्ने। हल्का pause र सफा endings दिने।
+
+SEGMENT 1 — 00:00.350–00:04.650; maximum 4.30 seconds
+तपाईंको व्यवसाय राम्रो छ। तर, अनलाइनमा देखिन्छ त?
+
+SEGMENT 2 — 00:05.350–00:09.650; maximum 4.30 seconds
+फास्टटेक नेपालसँग बनाउनुहोस् आफ्नो व्यवसायको वेबसाइट।
+
+SEGMENT 3 — 00:10.350–00:15.650; maximum 5.30 seconds
+मेनु, कोठा, फोटो र सम्पर्क। ग्राहकलाई चाहिने जानकारी, एकै ठाउँमा।
+
+SEGMENT 4 — 00:16.350–00:22.200; maximum 5.85 seconds
+मोबाइलमै सजिलै हेर्न मिल्ने। अनि तपाईंलाई सिधै सम्पर्क गर्न मिल्ने।
+
+SEGMENT 5 — 00:23.350–00:29.200; maximum 5.85 seconds
+वेबसाइट बनाउन, आजै ह्वाट्सएपमा कुरा गरौँ। फास्टटेक नेपाल, बुटवल।”
+
+VOICE IMPLEMENTATION NOTES
+- If a standard TTS tool does not understand directing prompts, enter only
+  the spoken Nepali script and select a Nepali voice/rate through its controls.
+- Do not paste the entire directing prompt into a system that reads every word.
+- Check currently supported Nepali voices. Historically documented examples
+  include ne-NP-SagarNeural and ne-NP-HemkalaNeural in Microsoft Speech;
+  verify current availability and audition them before recommending one.
+- Do not imitate or clone a real person's voice without permission.
+- Prompted timings are targets, not guaranteed output durations. Measure the
+  actual voice clips. Re-record or adjust the text/timeline naturally if needed;
+  do not solve every mismatch with aggressive speed-up.
+- If a script or scene duration changes, update ALL corresponding voice windows,
+  captions, music timing and exported files. Do not reuse stale timings.
+- A guide SRT for unrecorded narration must be labelled as a proposed timing
+  guide, not a transcription of narration already present in the MP4.
+
+
+K. AUDIO ASSEMBLY WORKFLOW FOR THE USER
+
+Include these clear editor instructions in the delivery notes:
+
+1. Import the silent 1080p MP4 into CapCut or the chosen editor.
+2. Keep the video timeline at 30 seconds and 30 fps.
+3. Place each dry voice segment at its specified start time:
+   00:00.350 / 00:05.350 / 00:10.350 / 00:16.350 / 00:23.350.
+4. Check that the ACTUAL spoken clips fit their scene windows.
+5. Place the separate music bed at 00:00.000, lower it beneath narration and
+   use gentle ducking where the voice becomes harder to hear.
+6. If using the music MP4 instead of the silent MP4, do not add the bed again.
+   Lower its existing audio and put narration above it.
+7. Import the SRT guide only if subtitles are wanted. Realign it to the actual
+   voice recording and keep subtitles away from important graphic text/UI.
+8. Check the final mix on a small phone speaker and headphones if available.
+9. Export a new VO version separately; keep the clean silent/music masters.
+10. Never claim narration was recorded or mixed if only the script was created.
+
+
+L. VIDEO RENDER AND EXPORT
+
+Main master:
+- MP4 container.
+- 1080 × 1920 pixels, 9:16.
+- Exactly 30.0 seconds unless the user explicitly changes the duration.
+- 30 fps, constant, 900 frames for the reference duration.
+- H.264 video, yuv420p for broad playback compatibility.
+- Sensible SDR/Rec.709 color handling; avoid accidental washed-out exports.
+- AAC music audio, stereo, 48 kHz, around 160–192 kbps.
+- Fast-start metadata for web playback where supported.
+- For a software H.264 encoder, a quality-oriented setting such as CRF 18–22
+  is a reasonable starting range. Inspect the result rather than assuming
+  a particular setting guarantees quality or file size.
+
+Silent master:
+- Identical picture, resolution, frame rate and duration.
+- Prefer no audio stream rather than an unexplained muted soundtrack.
+
+Optional lightweight preview:
+- 540 × 960 or 720 × 1280, clearly labelled PREVIEW.
+- Do not replace the full-resolution master with this smaller file.
+
+Keep critical text sharp. Do not claim 1080p while delivering only an upscaled
+low-resolution typography render. Do not change source settings merely to
+force an arbitrary tiny file size if the text becomes unreadable.
+
+
+M. REQUIRED VALIDATION — CHECK THE ACTUAL EXPORTED FILES
+
+Before saying "finished", check:
+
+CONTENT
+[ ] Brand is exactly Fasttechnepal for this configuration.
+[ ] Phone reads +977 971-6244942 with no missing/extra digits.
+[ ] wa.me uses 9779716244942, without spaces, plus signs or hyphens.
+[ ] Instagram/Facebook is @fastnepal.
+[ ] Supplied WhatsApp handle is @Fasttechnepal1.
+[ ] Location is बुटवल, नेपाल.
+[ ] Nepali spelling and shaping are intact; no replacement characters/boxes.
+[ ] All business claims were supplied or reasonably confirmed.
+[ ] Concept mockups are not passed off as completed client projects.
+
+VISUAL
+[ ] First-second hook is readable.
+[ ] Text never clips, collides or disappears behind a device mockup.
+[ ] Logo, phone, CTA and handles fit the placement's verified safe zone.
+[ ] The video contains real layer animation, not only static slides.
+[ ] The end card stays visible long enough to use.
+[ ] Check settled frames near 3, 8, 13, 20 and 27 seconds.
+[ ] Check transition frames and the actual first/last encoded frames.
+[ ] Phone-sized viewing is readable, not just the large render canvas.
+
+MEDIA
+[ ] Actual exported resolution, frame rate, duration and frame count verified.
+[ ] Decode the complete MP4 without audio/video errors.
+[ ] Music version has a valid audio stream; silent version is genuinely silent.
+[ ] Music is approximately 30 seconds, stereo, 48 kHz and not clipped.
+[ ] There is no accidental narration, vocal music or embedded directing prompt.
+[ ] Opening/ending audio fades do not click or truncate abruptly.
+[ ] If listening was unavailable, do not say you listened to the mix.
+
+DELIVERY
+[ ] Open/inspect output files where supported, not just source code/stills.
+[ ] Check an actual browser/player when available; report blocked checks.
+[ ] Every provided download points to a real, nonempty file.
+[ ] The ZIP opens and its files pass an archive-integrity check.
+[ ] No private credentials, dependency caches or unrelated project files in ZIP.
+[ ] All reported tests were really performed. Do not equate encoding success
+     with a manual playback/listening test.
+
+Correct discovered issues, then rerun the affected checks. If a check is
+blocked by unavailable tooling, clearly state which part could not be verified.
+
+
+N. REQUIRED DOWNLOAD PACKAGE
+
+Use clear filenames based on the current brand. For the default inputs:
+
+1. Fasttechnepal-30s-Nepali-ad-1080p.mp4
+   Finished picture + instrumental music, NO voice-over.
+
+2. Fasttechnepal-30s-silent-1080p.mp4
+   Same finished picture with no audio.
+
+3. original-music-bed.wav
+   Separate 30-second stereo instrumental and any intended gentle SFX.
+
+4. Nepali-voiceover-prompt.txt
+   Full copy-ready voice direction, exact script, scene windows, pronunciation
+   and external editing instructions.
+
+5. Nepali-voiceover-guide.srt
+   Clearly labelled proposed narration/subtitle timing guide.
+
+6. cover.jpg and contact-card.jpg
+   Clean first-hook and contact-card image options.
+
+7. storyboard.jpg
+   Five-scene visual overview.
+
+8. Editable source, source assets, font files/licenses and dependency notes.
+   For the reference route this includes render_ad.py, requirements.txt,
+   hotel/restaurant photos and the two fonts with their license texts.
+
+9. video-specifications.json or equivalent measured export report.
+   Record actual dimensions, duration, frame count, codecs and audio state.
+   Distinguish measured fields from intended settings.
+
+10. Campaign-notes.txt
+    Concept, research links/dates, honest limitations, edit instructions,
+    a Nepali caption and a proposed CTA. Do not invent ad performance numbers.
+
+11. Fasttechnepal-complete-ad-kit.zip
+    Bundle the deliverables in a clear portable folder, then test the archive.
+
+Attach the main MP4 and the full ZIP as real downloadable files. Also make the
+voice prompt directly accessible. If an interactive preview is created, include
+play/pause, scene seeking and script access, but do not let it replace the video.
+
+Final response: brief, with the actual file attachments. Explicitly say the
+main video has music and no voice-over, list the voice kit, and mention any
+important verification limitation. Do not write a long self-congratulatory
+summary or claim a marketing outcome.
+
+
+O. OPTIONAL PUBLISHING HANDOFF — NO AUTOMATIC AD LAUNCH
+
+Provide this only as practical guidance, not as an action already completed:
+
+- Reconfirm the contact details and service scope with the advertiser.
+- Verify the advertiser's Page and WhatsApp Business connection through the
+  actual account owner; do not claim ownership/delivery was tested otherwise.
+- Use the currently available Ads Manager setup for the intended WhatsApp
+  messaging destination. Objective labels and eligibility may change.
+- Preview the actual Reels/Stories placement before spending money.
+- Make a separate composition for square/other aspect ratios; do not blindly
+  auto-crop the vertical master and cut off phone numbers.
+- Ask the user to choose budget and targeting; do not invent them or launch ads.
+- Evaluate qualified inquiries and meaningful conversations, not only views.
+- If testing alternate hooks, keep other major variables reasonably consistent.
+
+Suggested Nepali caption for this reference campaign:
+
+“तपाईंको होटल, रेस्टुरेन्ट वा व्यवसायका लागि आफ्नै वेबसाइट बनाउने सोचमा
+हुनुहुन्छ? मेनु, कोठा, फोटो र सम्पर्क विवरण—सबै जानकारी एकै ठाउँमा।
+Fasttechnepal सँग आफ्नो व्यवसायको वेबसाइटबारे कुरा गरौँ।
+WhatsApp: +977 971-6244942
+बुटवल, नेपाल | Instagram/Facebook: @fastnepal”
+
+Suggested headline:
+“तपाईंको व्यवसायको आफ्नै वेबसाइट”
+
+Suggested customer message:
+“नमस्ते Fasttechnepal, मेरो व्यवसायका लागि वेबसाइट बनाउन चाहन्छु। विवरण दिनुहोस्।”
+
+
+EXECUTE NOW
+
+Follow the workflow in this order:
+Capability check → focused research → concept/script lock → real assets →
+Nepali shaping check → scene proofs → motion render → original/licensed music →
+matching external VO kit → MP4 export → actual-file QA → downloadable package.
+
+Unless a real blocker needs clarification, complete the production instead of
+stopping at an outline or asking whether I want you to proceed. Use the supplied
+inputs and tell me honestly which deliverables you actually produced.
+
+======================================================================
+END MASTER PROMPT
+======================================================================
+
+
+======================================================================
+HUMAN QUICK WORKFLOW — TAPAIKO LAGI SAJILO CHECKLIST
+======================================================================
+
+STEP 1 — Brief choose garne
+Yo ad hotel-owner ko lagi ho, restaurant-owner ko lagi ho, ki mixed business
+ko lagi ho? Offer/price confirm chaina bhane narakhne. Phone ra handles
+pahilai check garne.
+
+STEP 2 — AI lai file dine
+Yo master TXT upload garne. Purano edit kit cha bhane sangai dine. Same-style
+wa new-topic bhanne. Actual MP4 ra external voice kit dubai chahinchha bhanne.
+
+STEP 3 — Script ra scene proofs herne
+Nepali letters, brand spelling, CTA, photo style ra mobile readability check
+garne. Purai video render agadi 5 scenes herda mistake sasto/sajilo fix huncha.
+
+STEP 4 — MP4 ra kit line
+Music MP4, silent MP4, music WAV, voice prompt, timing guide ra source ZIP
+download garne. File download huncha ra video khulcha ki herne.
+
+STEP 5 — Voice-over bahira banaune
+Voice file ko direction prompt artist/instruction-aware TTS lai dine.
+Normal text-reading TTS bhaye spoken script matra paste garne.
+5 clips chhuttachhuttai magne; clean Nepali pronunciation sample pahila sunne.
+
+STEP 6 — Voice mix garne
+Silent video + 5 voice clips + music bed editor ma rakhne. Exact insertion
+times prompt bata line. Music voice bhanda tala rakhne. Clip actual duration
+napera timing milaune; prompt le perfect length guarantee gardaina.
+
+STEP 7 — Final export
+1080 × 1920, 30 fps, H.264 MP4. Music master ra final voice-over version
+chhuttachhuttai rakhne, naam ma clearly distinguish garne.
+
+STEP 8 — Publish aghi check
+Phone, WhatsApp delivery, handle, current ad-placement overlay ra complete
+video herne/sunne. Budget ra account action aafai approve garne.
+
+STEP 9 — Backup
+Master TXT + source ZIP + final MP4 + voice WAVs + music + licenses + campaign
+notes eutai campaign folder ma rakhne. Yo file lai AI chat history ma matra
+bhar parera nachhodne.
+
+STEP 10 — Improve using real feedback
+Hook confusing cha? Copy simplify garne. Number sano cha? End card redesign
+garne. Inquiries relevant chainan? Audience/message review garne. Fake claims
+thapera result improve garna khojne hoina.
+
+
+======================================================================
+READY FOLLOW-UP MESSAGES — ARKO PATak COPY GARNA MILNE
+======================================================================
+
+SAME STYLE, NEW AD
+“यो master prompt अनुसार Fasttechnepal को अर्को ३० सेकेन्डको नेपाली ad बनाऊ।
+Style, colors, fonts र contact details उही राख। नयाँ hook प्रयोग गर तर
+वेबसाइट सेवा नै मुख्य विषय होस्। Actual MP4 र matching external voice kit देऊ।”
+
+HOTEL-OWNER VERSION
+“यो workflow प्रयोग गरेर hotel owners लाई लक्षित ad बनाऊ। कोठाका फोटो,
+सुविधा, location र सम्पर्क विवरण देखाउने website मुख्य समाधान होस्।
+Online booking वा guaranteed bookings को दाबी नगर। Brand/contact उही राख।”
+
+RESTAURANT-OWNER VERSION
+“यो workflow अनुसार restaurant owners का लागि ad बनाऊ। Digital menu,
+खानाका फोटो, opening information र सम्पर्क देखाउने website मा focus गर।
+Order/payment system पुष्टि नभएकाले त्यस्तो सुविधा दाबी नगर।”
+
+REUSE THE EXACT SOURCE
+“यो पुरानो edit kit को renderer, fonts, photos र layout reuse गर। मैले
+भनेको copy मात्र बदल। अरू कुरा अनावश्यक regenerate नगर। Text fit, timings,
+voice script र final MP4 फेरि जाँचेर updated package देऊ।”
+
+ADD MY ACTUAL PORTFOLIO
+“यी screenshots मेरो आफ्नै कामका हुन् र प्रयोग गर्न अनुमति छ। Concept
+mockups को ठाउँमा यी real screenshots राख। Client endorsement, results वा
+business metrics नथप। देखिने private information भए पहिले redact गर।”
+
+SHORTER 15-SECOND VERSION
+“यही workflow बाट १५ सेकेन्डको अलग version बनाऊ। केवल speed-up नगर।
+Hook, मुख्य benefit र readable CTA राखेर scenes/script पुनःलेख। नयाँ voice
+windows, music ending, caption guide र actual १५ सेकेन्डको export देऊ।”
+
+PHONE / HANDLE UPDATE
+“यो campaign मा contact detail [पुरानो] बाट [नयाँ] गर। Video end card,
+voice निर्देशमा भएका विवरण, notes, links, cover/contact image र ZIP सबैमा
+संगत update गर। Script मा नम्बर नपढिने भए narration अनावश्यक नबदल।”
+
+VOICE TIMING FIX
+“यी actual voice clips scene windows मा अटेका छैनन्। पहिला duration नाप।
+स्वाभाविक पुनःवाचन वा न्यूनतम timeline adjustment सुझाऊ/गर। धेरै speed-up
+गरेर आवाज बिगार्ने काम नगर। अन्तिम audio, picture र SRT एकैसाथ मिलाऊ।”
+
+QA-ONLY REVIEW
+“यो exported MP4 र source kit review गर। Nepali spelling/shaping, contact
+numbers, safe zones, duration, resolution, audio र archive integrity जाँच।
+जुन परीक्षण साँच्चै गर्न सक्यौ त्यसको मात्र report देऊ; blocked check खुलाऊ।”
+
+
+LAST REMINDER
+
+Model ko naam bhanda clear brief + correct Nepali text + real assets + proper
+animation + clean audio + honest testing le result ramro banauchha.
+Yo prompt complete production brief ho; harek AI tool ko capability, paid access
+ra media/export limits फरक हुन सक्छन्।
